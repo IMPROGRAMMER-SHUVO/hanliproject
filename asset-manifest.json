@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hanliproject/projec-hanlis/static/css/main.60147fa4.css",
+    "main.js": "/hanliproject/projec-hanlis/static/js/main.4855b84d.js",
+    "static/js/787.a3882d92.chunk.js": "/hanliproject/projec-hanlis/static/js/787.a3882d92.chunk.js",
+    "static/media/background.jpg": "/hanliproject/projec-hanlis/static/media/background.e39b74e229797817f4ad.jpg",
+    "index.html": "/hanliproject/projec-hanlis/index.html",
+    "main.60147fa4.css.map": "/hanliproject/projec-hanlis/static/css/main.60147fa4.css.map",
+    "main.4855b84d.js.map": "/hanliproject/projec-hanlis/static/js/main.4855b84d.js.map",
+    "787.a3882d92.chunk.js.map": "/hanliproject/projec-hanlis/static/js/787.a3882d92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60147fa4.css",
+    "static/js/main.4855b84d.js"
+  ]
+}
